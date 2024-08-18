@@ -1,0 +1,5 @@
+db.sqlite3
+venv_3.12
+__pycache__
+*.pyc
+*.swp
